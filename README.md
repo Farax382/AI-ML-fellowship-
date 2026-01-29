@@ -1,4 +1,4 @@
- -> AI/ML Fellowship – Python Learning Journey
+ ### AI/ML Fellowship – Python Learning Journey
 
 This repository contains all tasks completed during the **AI/ML Fellowship Program**.  
 The goal of these tasks is to build strong foundations in **Python programming**, moving from basics to **production-ready Python development**.
@@ -8,43 +8,41 @@ The goal of these tasks is to build strong foundations in **Python programming**
 ## 📚 Repository Structure
 
 AI-ML-fellowship-
-│
-├── Week 1
-│ ├── Task 1
-│ │ ├── area_of_circle.py
-│ │ ├── factorial.py
-│ │ ├── String_reverse.py
-│ │ ├── number_guessing_game.py
-│ │ └── README.md
-│ │
-│ ├── Task 2
-│ │ ├── utils.py
-│ │ ├── contact_manager.py
-│ │ ├── exception_handling.py
-│ │ ├── student_records.py
-│ │ └── data_op.py
-│ │
-│ ├── Task 3
-│ │ ├── bank_account.py
-│ │ ├── decorators.py
-│ │ └── generators.py
-│ │
-│ └── Task 4
-│ ├── modules/
-│ │ ├── calculator.py
-│ │ ├── file_utils.py
-│ │ └── init.py
-│ │
-│ ├── mypackage/
-│ │ ├── init.py
-│ │ ├── math_ops.py
-│ │ ├── string_ops.py
-│ │ └── utils.py
-│ │
-│ ├── requirements.txt
-│ └── README.md
-│
-└── README.md
+└── Week 1
+    ├── Task 1
+    │   ├── area_of_circle.py
+    │   ├── factorial.py
+    │   ├── String_reverse.py
+    │   ├── number_guessing_game.py
+    │   └── README.md
+    │
+    ├── Task 2
+    │   ├── utils.py
+    │   ├── contact_manager.py
+    │   ├── exception_handling.py
+    │   ├── student_records.py
+    │   └── data_op.py
+    │
+    ├── Task 3
+    │   ├── bank_account.py
+    │   ├── decorators.py
+    │   └── generators.py
+    │
+    └── Task 4
+        ├── modules
+        │   ├── calculator.py
+        │   ├── file_utils.py
+        │   └── __init__.py
+        │
+        ├── mypackage
+        │   ├── __init__.py
+        │   ├── math_ops.py
+        │   ├── string_ops.py
+        │   └── utils.py
+        │
+        ├── requirements.txt
+        └── README.md
+
 
 
 ---
@@ -172,4 +170,5 @@ python filename.py
 Example:
 
 python factorial.py
+
 

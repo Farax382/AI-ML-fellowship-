@@ -7,6 +7,8 @@ The goal of these tasks is to build strong foundations in **Python programming**
 
 ## 📚 Repository Structure
 
+
+```text
 AI-ML-fellowship-
 └── Week 1
     ├── Task 1
@@ -42,10 +44,8 @@ AI-ML-fellowship-
         │
         ├── requirements.txt
         └── README.md
+```
 
-
-
----
 
 # ✅ Week 1 — Task 1: Python Basics
 
@@ -170,5 +170,6 @@ python filename.py
 Example:
 
 python factorial.py
+
 
 

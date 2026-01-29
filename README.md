@@ -1,4 +1,4 @@
- AI/ML Fellowship – Python Learning Journey
+ -> AI/ML Fellowship – Python Learning Journey
 
 This repository contains all tasks completed during the **AI/ML Fellowship Program**.  
 The goal of these tasks is to build strong foundations in **Python programming**, moving from basics to **production-ready Python development**.
@@ -46,8 +46,6 @@ AI-ML-fellowship-
 │
 └── README.md
 
-yaml
-Copy code
 
 ---
 
@@ -174,3 +172,4 @@ python filename.py
 Example:
 
 python factorial.py
+

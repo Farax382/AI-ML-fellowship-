@@ -6,17 +6,16 @@ Week 1 focused on building a **strong Python foundation**, covering everything f
 
 ---
 
-## 📚 Week 1 Structure
+## 📁 Week 1 Structure
 
+```text
 Week 1
-│
 ├── Task 1 – Python Basics
 ├── Task 2 – Modular Python & Data Handling
 ├── Task 3 – Object-Oriented & Advanced Python
 ├── Task 4 – Libraries, Packaging & Production Readiness
 └── Mini Project – To-Do List App
-
----
+```
 
 ## ✅ Task 1 – Python Basics
 
@@ -152,5 +151,6 @@ AI/ML Fellowship Participant
 ✔ All tasks completed  
 ✔ Mini project implemented  
 ✔ Code documented and uploaded  
+
 
 ---
